@@ -1,0 +1,10 @@
+{
+
+    "global": {
+        "regString":"This is just a string"
+    },
+    "deploy_modules": {
+        "python_module": "com.vertxtests~mod-python~1.0.0"
+    }
+
+}
